@@ -41,7 +41,7 @@ With this project, we want to achieve four functions to practice the Tiny OS wit
 - Achieveing the Self-adaptive function by sending request to other mote when booting to get the systems's settings;
 - Using the [pygame](http://www.pygame.org/news.html) to display the results. Each mote will **broadcast** their data to ppp router, we implement a pygame script to display the data from the motes as a funny game.
 
-(All of the multicast and broadcast is using the [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
+All of the multicast and broadcast is using [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
 
 
 
