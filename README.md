@@ -33,4 +33,6 @@ TinyOS is a free and open source software **component-based operating system** a
 
 ##Basic idea of this project
 
+In this project, four goals was achieved:
+-Light control:[pygame](http://www.pygame.org/news.html)
 
