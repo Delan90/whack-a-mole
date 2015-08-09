@@ -27,12 +27,11 @@ This project based on the telosb mote which is a Low Power Wireless Sensor Modul
 
 ##Sofeware : Tiny OS
 
-TinyOS is a free and open source software **component-based operating system** and platform targeting **wireless sensor networks (WSNs)**. TinyOS is an *embedded operating system* written in the **nesC programming language** as a set of cooperating tasks and processes. It is intended to be incorporated into smartdust. TinyOS started as a collaboration between the University of California, Berkeley in co-operation with Intel Research and Crossbow Technology, and has since grown to be an international consortium, the TinyOS Alliance.
+TinyOS is a free and open source software **component-based operating system** and platform targeting **wireless sensor networks (WSNs)**. TinyOS is an *embedded operating system* written in the [nesC programming language](https://en.wikipedia.org/wiki/NesC) as a set of cooperating tasks and processes. It is intended to be incorporated into smartdust. TinyOS started as a collaboration between the University of California, Berkeley in co-operation with Intel Research and Crossbow Technology, and has since grown to be an international consortium, the TinyOS Alliance.
 
 (Details can be found on wiki :https://en.wikipedia.org/wiki/TinyOS )
 
 ##Basic idea of this project
 
-In this project, four goals was achieved:
--Light control:[pygame](http://www.pygame.org/news.html)
+With this project, we want to achieve four functions to practice the Tiny OS with the telosB mote.
 
