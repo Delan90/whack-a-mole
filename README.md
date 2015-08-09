@@ -27,7 +27,7 @@ This project based on the telosb mote which is a Low Power Wireless Sensor Modul
 
 ##Sofeware
 
-TinyOS is a free and open source software component-based operating system and platform targeting **wireless sensor networks (WSNs)**. TinyOS is an *embedded operating system* written in the **nesC programming language** as a set of cooperating tasks and processes. It is intended to be incorporated into smartdust. TinyOS started as a collaboration between the University of California, Berkeley in co-operation with Intel Research and Crossbow Technology, and has since grown to be an international consortium, the TinyOS Alliance.
+TinyOS is a free and open source software **component-based operating system** and platform targeting **wireless sensor networks (WSNs)**. TinyOS is an *embedded operating system* written in the **nesC programming language** as a set of cooperating tasks and processes. It is intended to be incorporated into smartdust. TinyOS started as a collaboration between the University of California, Berkeley in co-operation with Intel Research and Crossbow Technology, and has since grown to be an international consortium, the TinyOS Alliance.
 
 TinyOS applications are written in **nesC**, a dialect of the C language optimized for the memory limits of sensor networks. Its supplementary tools are mainly in the form of Java and shell script front-ends. Associated libraries and tools, such as the nesC compiler and Atmel AVR binutils toolchains, are mostly written in C.
 
