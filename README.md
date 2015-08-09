@@ -36,10 +36,11 @@ Tutorial of the Tiny OS : https://github.com/tinyos/tinyos-main
 ##Basic idea of this project
 
 With this project, we want to achieve four functions to practice the Tiny OS with the telosB mote:
-- Implementing a random timer to make the mote shining randomly; 
+- Implementing a **random timer** to make the mote shining randomly; 
 - Synchronizing the settings with **multicast**. By this function,every time we change the settings of one mote, the ohter mote will be Synchronized by multicast;
 - Achieveing the Self-adaptive function by sending request to other mote when booting to get the systems's settings;
-- Using the [pygame](http://www.pygame.org/news.html) to display the results. Each mote will broadcast their data to ppp router, we implement a pygame script to display the data from the motes as a funny game.
+- Using the [pygame](http://www.pygame.org/news.html) to display the results. Each mote will **broadcast** their data to ppp router, we implement a pygame script to display the data from the motes as a funny game.
+(All of the multicast and broadcast is using the [UDP](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
 
 
 
