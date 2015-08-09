@@ -20,4 +20,4 @@ This project based on the telosb mote which is a Low Power Wireless Sensor Modul
 - Optional integrated temperature and humidity sensor 
 - Developed and published to the research community by UC Berkeley 
 
-[My Unicorn]http://moodle.utc.fr/file.php/498/SupportWeb/res/telosb-recto.png
+![My Unicorn]http://moodle.utc.fr/file.php/498/SupportWeb/res/telosb-recto.png
