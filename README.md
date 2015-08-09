@@ -29,9 +29,17 @@ This project based on the telosb mote which is a Low Power Wireless Sensor Modul
 
 TinyOS is a free and open source software **component-based operating system** and platform targeting **wireless sensor networks (WSNs)**. TinyOS is an *embedded operating system* written in the [nesC programming language](https://en.wikipedia.org/wiki/NesC) as a set of cooperating tasks and processes. It is intended to be incorporated into smartdust. TinyOS started as a collaboration between the University of California, Berkeley in co-operation with Intel Research and Crossbow Technology, and has since grown to be an international consortium, the TinyOS Alliance.
 
-(Details can be found on wiki :https://en.wikipedia.org/wiki/TinyOS )
+Details can be found on wiki :https://en.wikipedia.org/wiki/TinyOS
+
+Tutorial of the Tiny OS : https://github.com/tinyos/tinyos-main
 
 ##Basic idea of this project
 
-With this project, we want to achieve four functions to practice the Tiny OS with the telosB mote.
+With this project, we want to achieve four functions to practice the Tiny OS with the telosB mote:
+- Implementing a random timer to make the mote shining randomly; 
+- Synchronizing the settings with **multicast**. By this function,every time we change the settings of one mote, the ohter mote will be Synchronized by multicast;
+- Achieveing the Self-adaptive function by sending request to other mote when booting to get the systems's settings;
+- Using the [pygame](http://www.pygame.org/news.html) to display the results. Each mote will broadcast their data to ppp router, we implement a pygame script to display the data from the motes as a funny game.
+
+
 
