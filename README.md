@@ -1,6 +1,6 @@
 # whack-a-mole
 
-##Introduction
+## Introduction
 
 This is a whack a mole game based on tinyOS and python game. 
 In this project, four telosb mote are used as moles, one ppp router is used as controller. 
@@ -25,7 +25,7 @@ This project based on the telosb mote which is a Low Power Wireless Sensor Modul
 
 ![My Unicorn](http://moodle.utc.fr/file.php/498/SupportWeb/res/telosb-recto.png)
 
-##Sofeware : Tiny OS
+## Sofeware : Tiny OS
 
 TinyOS is a free and open source software **component-based operating system** and platform targeting **wireless sensor networks (WSNs)**. TinyOS is an *embedded operating system* written in the [nesC programming language](https://en.wikipedia.org/wiki/NesC) as a set of cooperating tasks and processes. It is intended to be incorporated into smartdust. TinyOS started as a collaboration between the University of California, Berkeley in co-operation with Intel Research and Crossbow Technology, and has since grown to be an international consortium, the TinyOS Alliance.
 
@@ -33,7 +33,7 @@ Details can be found on wiki :https://en.wikipedia.org/wiki/TinyOS
 
 Tutorial of the Tiny OS : https://github.com/tinyos/tinyos-main
 
-##Basic idea of this project
+## Basic idea of this project
 
 With this project, we want to achieve four functions to practice the Tiny OS with the telosB mote:
 - Implementing a **random timer** to make the mote shining randomly; 
